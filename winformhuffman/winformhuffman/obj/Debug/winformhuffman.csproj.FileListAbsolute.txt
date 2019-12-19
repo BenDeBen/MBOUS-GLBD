@@ -1,0 +1,9 @@
+H:\ProjectsC#\winformhuffman\winformhuffman\bin\Debug\winformhuffman.exe.config
+H:\ProjectsC#\winformhuffman\winformhuffman\bin\Debug\winformhuffman.exe
+H:\ProjectsC#\winformhuffman\winformhuffman\bin\Debug\winformhuffman.pdb
+H:\ProjectsC#\winformhuffman\winformhuffman\obj\Debug\winformhuffman.csprojResolveAssemblyReference.cache
+H:\ProjectsC#\winformhuffman\winformhuffman\obj\Debug\winformhuffman.Form1.resources
+H:\ProjectsC#\winformhuffman\winformhuffman\obj\Debug\winformhuffman.Properties.Resources.resources
+H:\ProjectsC#\winformhuffman\winformhuffman\obj\Debug\winformhuffman.csproj.GenerateResource.Cache
+H:\ProjectsC#\winformhuffman\winformhuffman\obj\Debug\winformhuffman.exe
+H:\ProjectsC#\winformhuffman\winformhuffman\obj\Debug\winformhuffman.pdb
